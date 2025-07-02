@@ -2,8 +2,8 @@
 ## Mastering Excel Techniques Masterclass Project
 
 This repository contains the projects completed during the **Mastering Excel Techniques Masterclass**, sponsored by Rochester Institute of Technology on the Excelerate platform. It documents a three-day journey from mastering Excel fundamentals to building a fully interactive and automated sales dashboard.
+![Dashboard Screenshot](https://github.com/Fouzia0298/Excelerate-Masterclass-Project-From-Fundamentals-to-Dashboarding/blob/main/Dashboard/Sales%20Dashboard.PNG)
 
-> **Tip:** Replace the link above with a screenshot of your final dashboard! Upload your screenshot to a site like Imgur and paste the link here.
 
 ---
 
